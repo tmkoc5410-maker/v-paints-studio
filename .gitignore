@@ -1,0 +1,10 @@
+# OS / User Environment
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Scratch / Temp files
+*.log
+*.tmp
+.system_generated/
+scratch/
